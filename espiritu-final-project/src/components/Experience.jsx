@@ -1,4 +1,5 @@
 import React from 'react';
+import rhiza from './img/rhiza.png';
 import w1 from './img/w1.png';
 import w2 from './img/w2.png';
 import w3 from './img/w3.png';
